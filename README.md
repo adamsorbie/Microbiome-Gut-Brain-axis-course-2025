@@ -5,7 +5,7 @@
 ## Download and install R and Rstudio
 
 Download and install the specific version of R for your OS [here:](https://ftp.fau.de/cran/)
-(If using Windows 10/11, please install [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools42/files/rtools42-5355-5357.exe) as well) 
+(If using Windows 10/11, please install [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools45/files/rtools45-6608-6492.exe) as well) 
 
 Download and install [Rstudio](https://posit.co/download/rstudio-desktop/)
 
@@ -17,7 +17,7 @@ Download the course content and extract the folder.
 
 ![Alt text](img/download_instructions.gif)  [](img/download_instructions.gif)
 
-Navigate to the course folder (Neuroimmunological-methods-in-stroke-research-course-2024) and open the "install.R" file in Rstudio. Run the code by selecting all of the code and pressing run. 
+Navigate to the course folder (Microbiome-Gut-Brain-axis-course-2025) and open the "install.R" file in Rstudio. Run the code by selecting all of the code and pressing run. 
 
 ![Alt text](img/installation_instructions.gif)  [](img/installation_instructions.gif)
 
