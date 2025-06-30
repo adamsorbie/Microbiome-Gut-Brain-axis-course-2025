@@ -1,4 +1,4 @@
-# Neuroimmunological-methods-in-stroke-research 
+# Microbiome Gut Brain axis course
 
 ## Instructions 
 
