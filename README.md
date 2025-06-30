@@ -11,7 +11,7 @@ Download and install [Rstudio](https://posit.co/download/rstudio-desktop/)
 
 ### Before we begin 
 
-**Note that everything below is subject to change before the course begins on 25/07/24, please install the necessar R packages on the day of the course. 
+**Note that everything below is subject to change before the course begins on 04/07/25, please install the necessary R packages before the day of the course if possible. 
 
 Download the course content and extract the folder. 
 
