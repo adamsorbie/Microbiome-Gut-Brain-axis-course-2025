@@ -155,10 +155,6 @@ t_df <- function(x) {
   return(as.data.frame(t(x)))
 }
 
-is_phyloseq(ps){
-  
-}
-
 ps_mutate <- function(ps, ...) {
   
   if(is(ps, "phyloseq")){
